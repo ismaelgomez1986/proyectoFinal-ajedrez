@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["game"],{"7d36":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"app"}})},l=[],r={},s=r,u=t("2877"),c=Object(u["a"])(s,a,l,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=game.656cee8e.js.map
